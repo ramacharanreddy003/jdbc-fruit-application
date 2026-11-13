@@ -1,1 +1,70 @@
 
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+1
+Enter name of the fruit
+Orange
+Enter taste of the fruit
+sour and sweet
+Fruit added successfully!!
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+2
+Enter name of the fruit
+orange
+Fruit is not found
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+2
+Enter name of the fruit
+Orange
+Fruit is found
+Name: Orange
+Taste: sour and sweet
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+3
+Enter fruit name to remove 
+banana
+Fruit removed successfully
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+4
+Fruit name: mango
+Fruit taste: sweet
+Fruit name: Orange
+Fruit taste: sour and sweet
+...Welcome...
+1.Add fruit
+2.Search fruit
+3.remove fruit
+4.list of fruits
+5.Exit
+Choose an option
+5
+Thank you
